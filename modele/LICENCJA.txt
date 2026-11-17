@@ -1,0 +1,9 @@
+Modele dinozaurów: Quaternius (https://quaternius.com), pobrane z poly.pizza 2026-11-17.
+Licencja CC0 1.0 (domena publiczna) — wolno używać, zmieniać i publikować bez opłat i bez podawania autora.
+trex.glb       https://poly.pizza/m/UYtneO5FpF
+raptor.glb     https://poly.pizza/m/cnlGH2UcDd
+trike.glb      https://poly.pizza/m/IGvrUqGrRM
+para.glb       https://poly.pizza/m/KeeQrrouRK
+stego.glb      https://poly.pizza/m/eFcNbOlpvl
+apato.glb      https://poly.pizza/m/fvo0x8Zk3z
+Kolory zmienione w kodzie (src/dinos.js).

@@ -1,0 +1,16 @@
+{
+  "name": "Szachy z dinozaurami",
+  "short_name": "Szachy",
+  "lang": "pl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#c9ecff",
+  "theme_color": "#8fd0ff",
+  "icons": [
+    { "src": "ikony/ikona-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "ikony/ikona-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "ikony/ikona-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }
+  ]
+}
