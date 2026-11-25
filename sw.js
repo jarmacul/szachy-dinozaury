@@ -1,6 +1,6 @@
 // Pomocnik offline (service worker): przy pierwszym otwarciu zapisuje wszystkie pliki na iPadzie,
 // potem gra działa bez internetu. Nowa wersja = nowy numer WERSJA (wpisuje go build.py).
-const WERSJA = '20261119-142712';
+const WERSJA = '20261125-172529';
 const PLIKI = ["./", "LICENSE-three.txt", "ikony/ikona-1024.png", "ikony/ikona-180.png", "ikony/ikona-192.png", "ikony/ikona-512.png", "index.html", "manifest.webmanifest", "modele/LICENCJA.txt", "modele/apato.glb", "modele/para.glb", "modele/raptor.glb", "modele/stego.glb", "modele/trex.glb", "modele/trike.glb"];
 const NAZWA = 'szachy-' + WERSJA;
 
